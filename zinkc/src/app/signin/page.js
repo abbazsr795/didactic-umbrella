@@ -27,7 +27,6 @@ export default function signup(){
         <>  
             <br></br>
             <br></br>
-            <h1>{auth.currentUser?.email}</h1>
             <div className="flex flex-row justify-center text-center">
                 <div className="flex flex-col min-w-3/12 m-3 p-2 rounded-lg text-black gap-3 border-2 w-96 min-w-fit">
                     <div className="flex flex-row justify-center"><p className="font-bold text-5xl">Sign In</p></div>
